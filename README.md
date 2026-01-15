@@ -9,7 +9,7 @@ Welcome to **Deep Dreaming** – Unleash the power of neural networks to transfo
 **DeepDream** is a computer vision program created by Google that uses convolutional neural networks to find and enhance patterns in images via algorithmic pareidolia. The result? Stunning, surreal images that look like they’re straight out of a dream! 🦋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/willow788/Deep-Dreaming/main/assets/surreal_sample.png" alt="DeepDream Surreal Sample Output" width="500"/>
+  <img src="https://github.com/willow788/Deep-Dreaming/blob/main/Sample%20images/Screenshot%202026-01-16%20031002.png" alt="DeepDream Surreal Sample Output" width="500"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@ python deep_dream.py --help
 
 | Original Image | Dreamified Output |
 |:--------------:|:----------------:|
-| <img src="https://raw.githubusercontent.com/willow788/Deep-Dreaming/main/assets/original_sample.jpg" width="240"/> | <img src="https://raw.githubusercontent.com/willow788/Deep-Dreaming/main/assets/dreamified_sample.jpg" width="240"/> |
+| <img src="https://cdn.britannica.com/17/83817-050-67C814CD/Mount-Everest.jpg" width="240"/> | <img src="https://github.com/willow788/Deep-Dreaming/blob/main/Sample%20images/Screenshot%202026-01-16%20031014.png" width="240"/> |
 
 ---
 
@@ -77,9 +77,9 @@ python deep_dream.py --help
 ## 🌟 Gallery
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/willow788/Deep-Dreaming/main/assets/gallery1.jpg" width="220"/>
-  <img src="https://raw.githubusercontent.com/willow788/Deep-Dreaming/main/assets/gallery2.jpg" width="220"/>
-  <img src="https://raw.githubusercontent.com/willow788/Deep-Dreaming/main/assets/gallery3.jpg" width="220"/>
+  <img src="https://github.com/willow788/Deep-Dreaming/blob/main/Sample%20images/Screenshot%202026-01-16%20031002.png" width="220"/>
+  <img src="https://github.com/willow788/Deep-Dreaming/blob/main/Sample%20images/Screenshot%202026-01-16%20031014.png" width="220"/>
+ 
 </p>
 
 ---
